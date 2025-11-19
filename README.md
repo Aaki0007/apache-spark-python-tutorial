@@ -2,7 +2,6 @@
 
 This repository contains the materials for a short **Apache Spark** tutorial session.
 
-- Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder 
 
   - `pyspark_short_tutorial.ipynb` 
